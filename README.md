@@ -22,8 +22,8 @@ Python, pandas, NumPy, Matplotlib, Jupyter Notebook; IBM Cognos Analytics (dashb
 
 ## My contribution
 
-[Describe your part of the team project in 2-3 sentences, for example which phases or analysis you worked on.]
+I contributed to the development and analysis phases of this COVID-19 Cognos project. My work included data exploration, analysis using Python, and creating visualisations to understand COVID-19 case trends and patterns. I also contributed to project documentation and reporting.
 
 ## Dashboard screenshots
 
-[Add screenshots of the Cognos dashboards here if you built them.]
+This repository includes data analysis visualisations generated using Python, Pandas, NumPy, and Matplotlib. The visualisations are available in the Jupyter Notebook under the notebooks folder.
